@@ -1,0 +1,82 @@
+{
+  "_id": {
+    "$oid": "6abcb22da91e5932541e5103"
+  },
+  "id": "new-schedules:scheduleitem_4e5b5bdc558f40508e686c23aff40ccd",
+  "__v": 0,
+  "all_must_complete": false,
+  "can_late_submit": true,
+  "createdAt": {
+    "$date": "2026-09-30T06:54:36.872Z"
+  },
+  "creator_user_id": "user_d3a7d2c5a92b43cd925fd0539ec6848b",
+  "description": "Winchester Closing- 6 Days Per Week ",
+  "duration": "PT16H",
+  "from_date": {
+    "$date": "2026-09-11T14:53:12.471Z"
+  },
+  "modified_at": {
+    "$date": "2026-10-16T15:42:14.962Z"
+  },
+  "organisation_id": "role_aec7dc056a334852834334cc8a750817",
+  "recurrence": "INTERVAL=1;FREQ=WEEKLY;DTSTART=20260914T060000;BYDAY=MO,TU,WE,TH,FR,SA",
+  "site_id": null,
+  "site_ids": [
+    "location_afc2d8e24d124c7bbad76440286e5022",
+    "location_32e784df296d4fdc935a09afffc7a48f",
+    "location_496af056b5fa49b5b3fb7488afdee740"
+  ],
+  "start_time_hour": null,
+  "start_time_minute": null,
+  "status": "PAUSED",
+  "template_id": "template_e909934759f846ecbec1077609520129",
+  "timezone": "Europe/London",
+  "to_date": null,
+  "updatedAt": {
+    "$date": "2026-10-21T23:06:35.260Z"
+  }
+}
+
+{
+  "_id": {
+    "$oid": "6abcb22da91e5932541e50fb"
+  },
+  "id": "new-schedules:scheduleitem_ab7062d4aaf34303abff0f2ab521d6ac",
+  "__v": 0,
+  "all_must_complete": false,
+  "can_late_submit": true,
+  "createdAt": {
+    "$date": "2026-09-30T06:54:36.872Z"
+  },
+  "creator_user_id": "user_d3a7d2c5a92b43cd925fd0539ec6848b",
+  "description": "Winchester- Opening 6 Days Per Week ",
+  "duration": "PT16H",
+  "from_date": {
+    "$date": "2026-09-11T14:51:39.671Z"
+  },
+  "modified_at": {
+    "$date": "2026-09-11T14:51:39.671Z"
+  },
+  "organisation_id": "role_aec7dc056a334852834334cc8a750817",
+  "recurrence": "INTERVAL=1;FREQ=WEEKLY;DTSTART=20260914T060000;BYDAY=MO,TU,WE,TH,FR,SA",
+  "site_id": null,
+  "site_ids": [
+    "location_f0547c4fb5fa4b94a4e1c1419f1c1f73",
+    "location_652d11b769cd425d8db3f7cb6b7ea5a7",
+    "location_5d1c9e7e563743d69e87988cccdb4fd2",
+    "location_adb0133ba5454108ad75625e5d86d3f8",
+    "location_3e7dbd566fe442ce9ef78b756528aab3"
+  ],
+  "start_time_hour": null,
+  "start_time_minute": null,
+  "status": "PAUSED",
+  "template_id": "template_ccb38342996043829e8ffeac576d4f52",
+  "timezone": "Europe/London",
+  "to_date": null,
+  "updatedAt": {
+    "$date": "2026-10-21T23:06:35.260Z"
+  }
+}
+
+
+ei duita asce,, eita remove kore dile sob clear right?? ar to eita asbe na mitti theke jehetu oikhne nai,, ar location ja ase esb ar template esb er kono effect thakbe na right
